@@ -1,0 +1,24 @@
+.cardModifier {
+    max-width: 30rem;
+    padding: 0.5rem auto;
+    min-width: 25rem;
+}
+
+.invalid {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: red;
+    text-align: left;
+    padding: 0.3rem;
+}
+
+.valid {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: green;
+    text-align: left;
+    padding: 0.3rem;
+}
+
+
+

@@ -1,0 +1,65 @@
+.email label {
+  padding: 1rem;
+  flex: 0.4;
+  color: black;
+}
+
+.email input {
+  padding: 0.5rem;
+  width: 50%;
+  font-size: large;
+}
+
+.email {
+  display: flex;
+  margin: 1rem auto;
+  align-items: center;
+  justify-content: left;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+}
+
+.password {
+  display: flex;
+  margin: 1rem auto;
+  align-items: center;
+  justify-content: left;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+}
+
+.password label {
+  padding: 1rem;
+  flex: 0.4;
+}
+
+.password input {
+  padding: 0.5rem;
+  width: 50%;
+  font-size: larger;
+}
+
+
+.invalidEmail {
+  display: flex;
+  margin: 1rem auto;
+  align-items: center;
+  justify-content: left;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+}
+
+.invalidEmail input {
+  padding: 0.5rem;
+  width: 50%;
+  font-size: large;
+  background-color: salmon;
+  border-color: red;
+}
+
+.invalidEmail label {
+  padding: 1rem;
+  flex: 0.4;
+  color: red;
+}
+
